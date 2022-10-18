@@ -1,0 +1,5 @@
+git clone https://github.com/<your-name-here>/FullScreenPokemon
+cd FullScreenPokemon
+yarn
+yarn run hydrate
+yarn run compile
